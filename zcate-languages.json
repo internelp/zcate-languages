@@ -1,0 +1,102 @@
+{
+  "languages": [
+    {"language": "zh_CN", "display": "简体中文"},
+    {"language": "zh_HK", "display": "繁體中文"},
+    {"language": "en_US", "display": "English (US)"}
+  ],
+  "translates": {
+    "t1": {"zh_CN": "语言选择", "zh_HK": "語言選擇", "en_US": "Language"},
+    "t2": {"zh_CN": "关于", "zh_HK": "關於", "en_US": "About"},
+    "t3": {"zh_CN": "主题切换", "zh_HK": "主題切換", "en_US": "Theme"},
+    "t4": {"zh_CN": "应用设置", "zh_HK": "應用設定", "en_US": "zCate"},
+    "t5": {"zh_CN": "服务器", "zh_HK": "伺服器", "en_US": "Zabbix"},
+    "t6": {"zh_CN": "问题", "zh_HK": "問題", "en_US": "Problem"},
+    "t7": {"zh_CN": "图形", "zh_HK": "圖形", "en_US": "Graph"},
+    "t8": {"zh_CN": "设置", "zh_HK": "設定", "en_US": "Setting"},
+    "t9": {"zh_CN": "当前问题", "zh_HK": "當前問題", "en_US": "The current problem"},
+    "t10": {"zh_CN": "趋势", "zh_HK": "趨勢", "en_US": "Trend"},
+    "t11": {"zh_CN": "空闲：", "zh_HK": "空閑：", "en_US": "Free: "},
+    "t12": {"zh_CN": "已用：", "zh_HK": "已用：", "en_US": "Used: "},
+    "t13": {"zh_CN": "合计：", "zh_HK": "合計：", "en_US": "Total: "},
+    "t14": {"zh_CN": "组", "zh_HK": "組", "en_US": "Group"},
+    "t15": {
+      "zh_CN": "设置 Zabbix",
+      "zh_HK": "設定 Zabbix",
+      "en_US": "Zabbix Setting"
+    },
+    "t16": {
+      "zh_CN": "ZABBIX 认证信息（必填）",
+      "zh_HK": "ZABBIX 認證信息（必填）",
+      "en_US": "Zabbix Server Details"
+    },
+    "t17": {"zh_CN": "服务器", "zh_HK": "伺服器", "en_US": "URL"},
+    "t18": {"zh_CN": "用户名", "zh_HK": "用戶名", "en_US": "Username"},
+    "t19": {"zh_CN": "密码", "zh_HK": "密碼", "en_US": "Password"},
+    "t20": {
+      "zh_CN": "HTTP 基本认证（如果您不知道此项的意义，请留空）",
+      "zh_HK": "HTTP 基本認證（如果您不知道此項的意義，請留空）",
+      "en_US": "HTTP Basic Auth Details"
+    },
+    "t21": {
+      "zh_CN": "您所输入的所有信息都只保存在本地，与 ZABBIX 服务器的通信过程中账户信息会使用明文传送。",
+      "zh_HK": "您所輸入的所有信息都只保存在本地，與 ZABBIX 服務器的通信過程中賬戶信息會使用明文傳送。",
+      "en_US":
+          "All the information you enter is only saved locally, and the account information is transmitted in clear text during communication with the ZABBIX server."
+    },
+    "t22": {
+      "zh_CN": "若想保证不被窃听，需要在服务器上使用 HTTPS。",
+      "zh_HK": "若想保證不被竊聽，需要在服務器上使用 HTTPS。",
+      "en_US":
+          "If you want to ensure that you are not being eavesdropped, you need to use HTTPS on the server."
+    },
+    "t23": {
+      "zh_CN": "验证登录信息的时候出错了，请查看设置。",
+      "zh_HK": "驗證登錄信息的時候出錯了，請查看設置。",
+      "en_US": "Error validating login information. Please check the Settings."
+    },
+    "t24": {"zh_CN": "出错了", "zh_HK": "出錯了", "en_US": "Error"},
+    "t25": {
+      "zh_CN": "去看看设置",
+      "zh_HK": "去看看設定",
+      "en_US": "Go to the settings page"
+    },
+    "t26": {
+      "zh_CN": "暂无问题，下拉重新刷新。",
+      "zh_HK": "暫無問題，下拉重新刷新。",
+      "en_US": "No problem, pull down to refresh."
+    },
+    "t27": {
+      "zh_CN": "Zabbix 服务器返回了一个错误：",
+      "zh_HK": "Zabbix 伺服器返回了壹個錯誤：",
+      "en_US": "Zabbix server returned an error:"
+    },
+    "t28": {
+      "zh_CN": "在与 zabbix 通信过程中出现错误：",
+      "zh_HK": "在與 zabbix 通信過程中出現錯誤：",
+      "en_US": "An error occurred during communication with zabbix:"
+    },
+    "t29": {"zh_CN": "主机图形", "zh_HK": "主機圖形", "en_US": "Graph"},
+    "t30": {"zh_CN": "保存设置信息", "zh_HK": "保存設定信息", "en_US": "Save"},
+    "t31": {
+      "zh_CN": "验证登录信息",
+      "zh_HK": "驗證登錄信息",
+      "en_US": "Verifying login information..."
+    },
+    "t32": {"zh_CN": "知道了", "zh_HK": "知道了", "en_US": "ok"},
+    "t33": {
+      "zh_CN": "Zabbix 服务器地址",
+      "zh_HK": "Zabbix 伺服器地址",
+      "en_US": "Zabbix url like https://www.appgao.com"
+    },
+    "t34": {
+      "zh_CN": "Zabbix 用户",
+      "zh_HK": "Zabbix 用戶",
+      "en_US": "Zabbix Username"
+    },
+    "t35": {
+      "zh_CN": "Zabbix 密码",
+      "zh_HK": "Zabbix 密碼",
+      "en_US": "Zabbix Password"
+    }
+  }
+}
