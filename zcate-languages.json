@@ -99,6 +99,7 @@
       "en_US": "Zabbix Password"
     },
     "t36": {"zh_CN": "近期告警", "zh_HK": "近期告警", "en_US": "Recent Alerts"},
-    "t37": {"zh_CN": "当前问题", "zh_HK": "當前問題", "en_US": "Current Problems"}
+    "t37": {"zh_CN": "当前问题", "zh_HK": "當前問題", "en_US": "Current Problems"},
+    "t38": {"zh_CN": "问题或建议", "zh_HK": "問題或建議", "en_US": "Question or suggestion"}
   }
 }
