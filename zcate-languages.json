@@ -97,6 +97,8 @@
       "zh_CN": "Zabbix 密码",
       "zh_HK": "Zabbix 密碼",
       "en_US": "Zabbix Password"
-    }
+    },
+    "t36": {"zh_CN": "近期告警", "zh_HK": "近期告警", "en_US": "Recent Alerts"},
+    "t37": {"zh_CN": "当前问题", "zh_HK": "當前問題", "en_US": "Current Problems"}
   }
 }
