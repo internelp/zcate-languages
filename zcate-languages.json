@@ -9,7 +9,11 @@
     "t2": {"zh_CN": "关于", "zh_HK": "關於", "en_US": "About"},
     "t3": {"zh_CN": "主题切换", "zh_HK": "主題切換", "en_US": "Theme"},
     "t4": {"zh_CN": "应用设置", "zh_HK": "應用設定", "en_US": "zCate"},
-    "t5": {"zh_CN": "服务器", "zh_HK": "伺服器", "en_US": "Zabbix"},
+    "t5": {
+      "zh_CN": "Zabbix 登录信息",
+      "zh_HK": "Zabbix 登錄信息",
+      "en_US": "Zabbix login information"
+    },
     "t6": {"zh_CN": "问题", "zh_HK": "問題", "en_US": "Problem"},
     "t7": {"zh_CN": "图形", "zh_HK": "圖形", "en_US": "Graph"},
     "t8": {"zh_CN": "设置", "zh_HK": "設定", "en_US": "Setting"},
@@ -100,6 +104,54 @@
     },
     "t36": {"zh_CN": "近期告警", "zh_HK": "近期告警", "en_US": "Recent Alerts"},
     "t37": {"zh_CN": "当前问题", "zh_HK": "當前問題", "en_US": "Current Problems"},
-    "t38": {"zh_CN": "问题或建议", "zh_HK": "問題或建議", "en_US": "Question or suggestion"}
+    "t38": {
+      "zh_CN": "问题或建议",
+      "zh_HK": "問題或建議",
+      "en_US": "Question or suggestion"
+    },
+    "t39": {
+      "zh_CN": "消息推送（实验室）",
+      "zh_HK": "訊息通知（實驗室）",
+      "en_US": "Message Notifications (beta)"
+    },
+    "t40": {
+      "zh_CN":
+          "启用通知后，安卓客户端会使用“极光推送”将您 POST 到 zCate 服务器的消息推送到您的手机上，苹果客户端会直接通过 APNs 服务器将您 POST 到 zCate 服务器的消息推送到您的手机上。",
+      "zh_HK":
+          "啟用通知後，安卓客戶端會使用“極光推送”將您 POST 到 zCate 服務器的消息推送到您的手機上，蘋果客戶端會直接通過 APNs 服務器將您 POST 到 zCate 服務器的消息推送到您的手機上。",
+      "en_US":
+          "When notifications are enabled, zCate will use the \"jpush\" to push messages you POST to the zCate server to your phone."
+    },
+    "t41": {
+      "zh_CN":
+          "Token 是您的个人标识，填写申请到的 Token 以后，才能正确使用消息推送，如果您有多个设备想同时接收到推送消息，那需要将这些设备都填写这个 Token。",
+      "zh_HK":
+          "Token 是您的個人標識，填寫申請到的 Token 以後，才能正確使用訊息通知，如果您有多個設備想同時接收到訊息通知，那需要將這些設備都填寫這個 Token。",
+      "en_US":
+          "After the notification is enabled, the android client will use the \"jpush\" to push the messages you POST to the zCate server to your phone, and the apple client will directly push the messages you POST to the zCate server to your phone through the APNs server."
+    },
+    "t42": {
+      "zh_CN": "访问 zCate 网站获取 Token",
+      "zh_HK": "訪問 zCate 網站獲取 Token",
+      "en_US": "Visit zCate website to get Token"
+    },
+    "t43": {
+      "zh_CN": "内容显示设置",
+      "zh_HK": "內容顯示設定",
+      "en_US": "Content display setting"
+    },
+    "t44": {
+      "zh_CN":
+          "只显示这些 action 创建的告警，此处应填写数字，如果有多个 action ID 请使用半角逗号分隔，留空会显示全部 action 创建的告警。",
+      "zh_HK":
+          "只顯示這些 action 創建的告警，此處應填寫數字，如果有多個 action ID 請使用半角逗號分隔，留空會顯示全部 action 創建的告警。",
+      "en_US":
+          "只显示这些 action 创建的告警，此处应填写数字，如果有多个 action ID 请使用半角逗号分隔，留空会显示全部 action 创建的告警。"
+    },
+    "t45": {
+      "zh_CN": "查看如何获取 action ID",
+      "zh_HK": "查看如何獲取 action ID",
+      "en_US": "See how to get the action ID"
+    }
   }
 }
