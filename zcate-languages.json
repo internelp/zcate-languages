@@ -120,7 +120,7 @@
       "zh_HK":
           "啟用通知後，安卓客戶端會使用“極光推送”將您 POST 到 zCate 服務器的消息推送到您的手機上，蘋果客戶端會直接通過 APNs 服務器將您 POST 到 zCate 服務器的消息推送到您的手機上。",
       "en_US":
-          "When notifications are enabled, zCate will use the \"jpush\" to push messages you POST to the zCate server to your phone."
+          "Once the notification is enabled, the Android client will use \"jpush\" to push messages from your POST to the zCate server to your phone. The Apple client will push your POST to zCate server directly to your phone via the APNs server."
     },
     "t41": {
       "zh_CN":
@@ -146,12 +146,18 @@
       "zh_HK":
           "只顯示這些 action 創建的告警，此處應填寫數字，如果有多個 action ID 請使用半角逗號分隔，留空會顯示全部 action 創建的告警。",
       "en_US":
-          "只显示这些 action 创建的告警，此处应填写数字，如果有多个 action ID 请使用半角逗号分隔，留空会显示全部 action 创建的告警。"
+          "Only the alarms created by these actions are displayed. The number should be filled in here. If there are multiple action IDs, use a comma to separate them. Leave blank to display the alarms created by all actions."
     },
     "t45": {
       "zh_CN": "查看如何获取 action ID",
       "zh_HK": "查看如何獲取 action ID",
       "en_US": "See how to get the action ID"
-    }
+    },
+    "t46": {"zh_CN": "时间区间", "zh_HK": "時間區間", "en_US": "Date range"},
+    "t47": {"zh_CN": "今天", "zh_HK": "今天", "en_US": "Today"},
+    "t48": {"zh_CN": "本周", "zh_HK": "本週", "en_US": "Week"},
+    "t49": {"zh_CN": "本月", "zh_HK": "本月", "en_US": "Month"},
+    "t50": {"zh_CN": "确定", "zh_HK": "確認", "en_US": "OK"},
+    "t51": {"zh_CN": "选择时间", "zh_HK": "選擇時間", "en_US": "Date selection"}
   }
 }
